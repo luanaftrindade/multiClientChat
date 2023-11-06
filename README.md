@@ -5,4 +5,4 @@ This multi-client chat application was born in my 7th week of the Code for All_'
 Developing new features: 
 - create and join chat rooms;
 - see the online status of the users;
-- in some chat room, send a message only for specific users.
+- in some chat room, send a message only for a specific users.
